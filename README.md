@@ -13,7 +13,7 @@ practice in ES6.
 - MobX
 - Babel
 
-### Run the example
+### Run the app
 In the root directory run:
 ```
 npm install
